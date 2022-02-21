@@ -8,3 +8,5 @@ This project is created under Future Ready Talent-Virtual Microsoft Internship.
 In this project, core Azure services are used, i.e.,
 1. QnA Maker
 2. Azure Bot Services
+
+Resource:https://docs.microsoft.com/en-us/azure/cognitive-services/qnamaker/quickstarts/create-publish-knowledge-base?tabs=v1&WT.mc_id=Portal-Microsoft_Azure_ProjectOxford
